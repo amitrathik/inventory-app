@@ -1,0 +1,12 @@
+{
+    "name": "amitrathik/inventory",
+    "authors": [
+        {
+            "name": "Amit Rathi",
+            "email": "amit.rathi.k@gmail.com"
+        }
+    ],
+    "require": {
+        "dotenv-org/phpdotenv-vault": "^0.1.2"
+    }
+}
